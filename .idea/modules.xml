@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:/IDEGit/myRepository/HadoopStudy/HadoopStudy.iml" filepath="E:/IDEGit/myRepository/HadoopStudy/HadoopStudy.iml" />
+      <module fileurl="file://E:/IDEGit/myRepository/HbaseTest/HbaseTest.iml" filepath="E:/IDEGit/myRepository/HbaseTest/HbaseTest.iml" />
+      <module fileurl="file://E:/IDEGit/myRepository/IceStudy/IceStudy.iml" filepath="E:/IDEGit/myRepository/IceStudy/IceStudy.iml" />
+      <module fileurl="file://E:/IDEGit/myRepository/RPC_project/RPC_project.iml" filepath="E:/IDEGit/myRepository/RPC_project/RPC_project.iml" />
+      <module fileurl="file://E:/IDEGit/myRepository/myhadoop/myhadoop.iml" filepath="E:/IDEGit/myRepository/myhadoop/myhadoop.iml" />
+      <module fileurl="file://E:/IDEGit/myRepository/netty-client/netty-client.iml" filepath="E:/IDEGit/myRepository/netty-client/netty-client.iml" />
+      <module fileurl="file://E:/IDEGit/myRepository/netty-server/netty-server.iml" filepath="E:/IDEGit/myRepository/netty-server/netty-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study/study.iml" filepath="$PROJECT_DIR$/study/study.iml" />
+      <module fileurl="file://E:/IDEGit/myRepository/tiles-client/tiles-client.iml" filepath="E:/IDEGit/myRepository/tiles-client/tiles-client.iml" />
+      <module fileurl="file://E:/IDEGit/myRepository/tiles_basic/tiles_basic.iml" filepath="E:/IDEGit/myRepository/tiles_basic/tiles_basic.iml" />
+    </modules>
+  </component>
+</project>
